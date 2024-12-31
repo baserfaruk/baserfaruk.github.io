@@ -2,10 +2,11 @@ theme: jekyll-theme-hacker
 title: Faruk Başer
 description: Rust-Lang Developer | Cybersecurity | Linux
 
-include: ['_pages']
-
 collections:
   posts:
     output: true
     future: true
     published: true
+
+
+include: ['_pages']
