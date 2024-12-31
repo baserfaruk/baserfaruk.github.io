@@ -4,3 +4,6 @@ description: Rust-Lang Developer | Cybersecurity | Linux
 
 include: ['_pages']
 
+collections:
+  posts:
+    output: true
