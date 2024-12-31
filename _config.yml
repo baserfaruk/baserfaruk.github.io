@@ -4,3 +4,15 @@ plugins:
 
 title: [Faruk Başer]
 description: [Rust-Lang Developer | Cybersecurity | Linux]
+
+sass:
+    style: compressed
+
+markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
+    entity_output: as_char
+
+include: ['_pages']
