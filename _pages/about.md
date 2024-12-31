@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
 # About Me
 
-This is the about page of the site. Here you can write about yourself or the purpose of the site.
+This is the about page content.
