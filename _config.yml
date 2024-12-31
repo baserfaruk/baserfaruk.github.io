@@ -9,4 +9,4 @@ collections:
     published: true
 
 
-include: ['_pages']
+include: ['_pages', '_posts']
