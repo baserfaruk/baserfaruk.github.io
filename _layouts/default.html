@@ -25,6 +25,17 @@
       <section id="main_content">
         {{ content }}
       </section>
+      <section>
+        <h2>Blog Posts</h2>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <small>{{ post.date | date: "%-d %B %Y" }}</small>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
     </div>
   </body>
 </html>
