@@ -6,4 +6,4 @@ permalink: /about/
 
 # About Me
 
-This is the about page content.
+Greetings, I am someone interested in cyber security, system programming and blockchain. My dream is to undertake global technological projects.
