@@ -3,11 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website
-
-This is the home page content.
-
-## Blog Posts
+# Blog Posts
 
 <ul>
   {% for post in site.posts %}
