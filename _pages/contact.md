@@ -8,6 +8,6 @@ permalink: /contact/
 
 You can reach me at:
 
-- Email: example@example.com
-- Twitter: [@example](https://twitter.com/example)
-- GitHub: [example](https://github.com/example)
+- Email: baserfaruk.rs@gmail.com
+- Instagram: [@farukbaser.sh](https://www.instagram.com/farukbaser.sh/)
+- GitHub: [baserfaruk](https://github.com/baserfaruk)
